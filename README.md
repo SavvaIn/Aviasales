@@ -1,1 +1,1 @@
- Aviasales  https://aviasales-d8ucad3bh-savvain.vercel.app/
+ Aviasales https://aviasales-ki2up246s-savvain.vercel.app/
